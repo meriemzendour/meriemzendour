@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 256" width="1200" height="256" role="img" aria-label="Issue d’une Licence en Génie Logiciel, je couvre toute la chaîne de la donnée au modèle. Étudiante en Master 2 SDSI, je recherche un stage PFE de 4 à 6 mois en Data Science, Machine Learning, IA, Data Analysis ou Data Engineering.">
+<style>.in{opacity:0;animation:u .8s cubic-bezier(.2,.8,.2,1) forwards}
+@keyframes u{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.hl{fill:#D8B06F;font-weight:700}
+.p{font:400 19px 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif;fill:#F4E9DE}
+.bar{transform-box:fill-box;transform-origin:top;transform:scaleY(0);animation:g 1.2s .1s forwards}
+@keyframes g{to{transform:scaleY(1)}}</style>
+<rect width="1200" height="256" rx="20" fill="#1A110D"/>
+<rect x="1" y="1" width="1198" height="254" rx="19" fill="none" stroke="#43302A" stroke-width="2"/>
+<rect class="bar" x="30" y="30" width="4" height="196" rx="2" fill="#D8B06F"/>
+<text x="64" y="58" class="p in" style="animation-delay:0.00s">Issue d’une Licence en Génie Logiciel, je couvre toute la chaîne de la donnée au modèle :</text><text x="64" y="92" class="p in" style="animation-delay:0.15s"><tspan class="hl">pipelines ETL, Big Data, SQL et Power BI</tspan>, puis <tspan class="hl">Machine Learning, Computer Vision, NLP</tspan> et déploiement.</text><text x="64" y="144" class="p in" style="animation-delay:0.30s">Étudiante en <tspan class="hl">Master 2 SDSI</tspan> (Sciences des Données et Systèmes Intelligents) à l’Université Mohammed Premier</text><text x="64" y="178" class="p in" style="animation-delay:0.45s">de Nador, je recherche un <tspan class="hl">stage PFE de 4 à 6 mois</tspan> en Data Science, Machine Learning, IA,</text><text x="64" y="212" class="p in" style="animation-delay:0.60s">Data Analysis ou Data Engineering.</text>
+</svg>

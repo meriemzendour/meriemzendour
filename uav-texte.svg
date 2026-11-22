@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Zoom sur un projet : collecte de données par UAV dans un réseau de capteurs. Quatre métaheuristiques comparées sur 20 exécutions et 3 scénarios, validation sous ns-3 : 44 sur 44 échéances respectées.">
+<style>.in{opacity:0;animation:u .8s cubic-bezier(.2,.8,.2,1) forwards}
+@keyframes u{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.hl{fill:#D8B06F;font-weight:700}
+.k{font:500 13px ui-monospace, 'JetBrains Mono', Menlo, Consolas, monospace;letter-spacing:4px;fill:#D8B06F}
+.ti{font:800 30px 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif;fill:#F4E9DE}
+.p{font:400 18px 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif;fill:#C4AD9D}
+.v{font:800 32px 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif;fill:#D8B06F}.l{font:500 14px 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif;fill:#C4AD9D}
+.pd{animation:p 2.4s ease-in-out infinite}@keyframes p{0%,100%{opacity:.9}50%{opacity:.2}}
+</style>
+<rect width="1200" height="340" rx="22" fill="#1A110D"/>
+<rect x="1" y="1" width="1198" height="338" rx="21" fill="none" stroke="#43302A" stroke-width="2"/>
+<text x="30" y="46" class="k">ZOOM SUR UN PROJET</text>
+<text x="30" y="84" class="ti in">Collecte de données par UAV dans un réseau de capteurs</text>
+<text x="30" y="118" class="p in" style="animation-delay:0.40s">Optimisation de la tournée d’un drone qui collecte des données de capteurs avant leurs échéances.</text><text x="30" y="150" class="p in" style="animation-delay:0.55s">Quatre métaheuristiques (<tspan class="hl">ACO, GA, PSO, SA</tspan>) sont comparées à un glouton de référence sur 20 exécutions</text><text x="30" y="182" class="p in" style="animation-delay:0.70s">et 3 scénarios, puis la meilleure trajectoire est validée sous <tspan class="hl">ns-3.43</tspan>.</text><g class="in" style="animation-delay:0.90s" transform="translate(30,230)"><rect width="360" height="84" rx="16" fill="#2A1B14" stroke="#43302A" stroke-width="2"/>
+<text x="22" y="46" class="v">+4,14 %</text><text x="22" y="68" class="l">ACO vs glouton, scénario serré</text><circle cx="332" cy="26" r="4" fill="#D8B06F" class="pd" style="animation-delay:0.0s"/></g><g class="in" style="animation-delay:1.05s" transform="translate(410,230)"><rect width="360" height="84" rx="16" fill="#2A1B14" stroke="#43302A" stroke-width="2"/>
+<text x="22" y="46" class="v">20 × 3</text><text x="22" y="68" class="l">exécutions × scénarios</text><circle cx="332" cy="26" r="4" fill="#D8B06F" class="pd" style="animation-delay:0.4s"/></g><g class="in" style="animation-delay:1.20s" transform="translate(790,230)"><rect width="360" height="84" rx="16" fill="#2A1B14" stroke="#43302A" stroke-width="2"/>
+<text x="22" y="46" class="v">44 / 44</text><text x="22" y="68" class="l">échéances tenues sous ns-3</text><circle cx="332" cy="26" r="4" fill="#D8B06F" class="pd" style="animation-delay:0.8s"/></g>
+</svg>
