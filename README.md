@@ -4,9 +4,9 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Voir_mes_projets-D8B06F?style=for-the-badge&logo=googlechrome&logoColor=1A110D&labelColor=1A110D)](https://VOTRE-LIEN-PORTFOLIO)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Meriem_Zendour-D8B06F?style=for-the-badge&logo=linkedin&logoColor=1A110D&labelColor=1A110D)](https://www.linkedin.com/in/zendour-meriem-1a065929a)
-[![E-mail](https://img.shields.io/badge/E--MAIL-zendourmeriem7@gmail.com-D8B06F?style=for-the-badge&logo=gmail&logoColor=1A110D&labelColor=1A110D)](mailto:zendourmeriem7@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-meriemzendour.github.io-0A66C2?style=for-the-badge)](https://meriemzendour.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meriem_Zendour-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zendour-meriem-1a065929a)
+[![Email](https://img.shields.io/badge/Email-zendourmeriem7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zendourmeriem7@gmail.com)
 
 <br>
 
