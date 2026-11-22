@@ -27,11 +27,9 @@
 <br><br>
 
 <img src="t-projets.svg" alt="Projets" width="100%">
-<a href="https://VOTRE-LIEN-PORTFOLIO">
+<a href="https://meriemzendour.github.io">
 <img src="projets.svg" alt="SmartLivestock, Heart Disease Prediction, Retail Data Warehouse, IoT Real-Time Streaming, Deadline-Aware UAV, Merly Bloom, Uni-Connect" width="100%">
 </a>
-<img src="uav-texte.svg" alt="Zoom sur un projet : collecte de données par UAV dans un réseau de capteurs, 44 sur 44 échéances respectées sous ns-3" width="100%">
-<img src="uav-figures.svg" alt="Figures du projet UAV : meilleure tournée ACO, volume collecté, courbes de convergence" width="100%">
 
 <br><br>
 
